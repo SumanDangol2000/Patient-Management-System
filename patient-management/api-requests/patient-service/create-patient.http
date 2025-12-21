@@ -1,0 +1,13 @@
+### POST request to save the patient record
+POST http://localhost:4000/patients
+Content-type: application/json
+
+{
+  "name" : "Suman Dangol",
+  "email" : "suman@example.com",
+  "address" : "123 main street",
+  "dateOfBirth" : "1991-05-05",
+  "registeredDate" : "2025-05-05"
+}
+
+###
