@@ -1,0 +1,4 @@
+### Delete existing patient records
+DELETE http://localhost:4000/patients/353e2fc0-18e8-4f60-bba7-09824916b6df
+
+###
